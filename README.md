@@ -1,2 +1,2 @@
 # phythonlearn
-Learned python uing the above 
+Learned python using the above notebook 
